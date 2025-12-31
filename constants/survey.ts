@@ -1,0 +1,3 @@
+export const surveyOne = ["Dravida Munnetra Kazhagam (DMK)", "All India Anna Dravida Munnetra Kazhagam (AIADMK)", "Naam Tamilar Katchi (NTK)", "Pattali Makkal Katchi (PMK)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "Tamilaga Vettri Kazhagam (TVK)", "Nota"];
+export const surveyTwo = ["Laptops", "Television", "Mixers", "Cycles", "Widow Remarriage Scheme"];
+export const surveyThree = ["Completely agree", "Somewhat agree", "Neutral", "Somewhat disagree", "Completely disagree"]
